@@ -1,4 +1,4 @@
-# React Mini Online Store
+# Mini Online Store
 
 This is a simple and interactive online store built with **React**. It allows users to browse products, add items to their cart, view discounts, simulate a checkout with payment info, and submit feedback through a survey.
 

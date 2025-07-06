@@ -43,7 +43,7 @@ export default function OnlineStore() {
 
   return (
     <div className="container">
-      <h1>React Mini Online Store</h1>
+      <h1>Mini Online Store</h1>
       <h3 className="helper-text">Filter items by category to find exactly what you need.</h3>
 
       <p className="promo-text">
